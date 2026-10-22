@@ -32,6 +32,10 @@ I dati del prospect sono nell'argomento della skill (`$ARGUMENTS`) o nel messagg
 3. **Dossier.** Crea la cartella `prospect/<nome-azienda>-<AAAA-MM-GG>/` con `dossier.md` e `cheat-sheet.md`, seguendo la struttura esatta di `references/dossier-template.md` (sezioni 0-15 e cheat-sheet).
 4. **Controllo qualità** (checklist in fondo a `references/dossier-template.md`), poi scrivi il riepilogo finale.
 
+## Modalità brief
+
+Se la skill è richiamata dal morning brief automatico di Giovanni, segui anche `references/modalita-brief.md`: niente file, dossier condensato scritto direttamente nel brief, nessuna domanda all'utente.
+
 ## Il cuore del dossier: la domanda di apertura
 
 La sezione 7 è la parte principale. Si apre la call con una domanda sul mondo del cliente, non presentando sé stessi. Quella domanda è l'affermazione di credibilità: un breve aggancio al loro mondo che culmina in una domanda aperta. Ogni affermazione rispetta i 5 elementi (crea connessione, colpisce nel segno, racconta una storia, suggerisce supporto senza vendere, transizione con la domanda) e deve poggiare su almeno un fatto [VERIFICATO]. I dettagli e i criteri della domanda sono in `references/dossier-template.md`.
