@@ -35,7 +35,7 @@ Fonte: appunti della lezione, Modulo 2.
 
 ## USP aziendale
 
-La lezione dice che la USP deve differenziare la nostra soluzione da quella dei competitor, evidenziare cosa offriamo di diverso e identificare cosa la rende migliore. Il contenuto va scritto da Giovanni.
+La lezione dice che la USP deve differenziare la nostra soluzione da quella dei competitor, evidenziare cosa offriamo di diverso e identificare cosa la rende migliore.
 
 - Differenziazione dai competitor: Riesco a far vedere al cliente prima ciò che otterrà.
 - Cosa offriamo di diverso: una specializzazione molto verticale nei vari ambiti in cui lavoriamo, soprattutto per tecnologie.
@@ -45,6 +45,6 @@ La lezione dice che la USP deve differenziare la nostra soluzione da quella dei 
 
 Domande guida dalla lezione:
 
-- Perché è piacevole lavorare con me: lavorare con me è piacevole perchè rispondo alle esigenze del cliente senza guardare il minuto o l'ora di lavoro ma cercando di fare di tutto per arrivare al risultato desiderato.
+- Perché è piacevole lavorare con me: lavorare con me è piacevole perché rispondo alle esigenze del cliente senza guardare il minuto o l'ora di lavoro ma cercando di fare di tutto per arrivare al risultato desiderato.
 - Cosa mi rende diverso: mi differenzia, oltre a quanto scritto sopra, il fatto che sono una persona affabile e sempre sorridente.
 - Quanto il mio atteggiamento è importante per il cliente: molto, sono una persona empatica e riesco a capire bene cosa vuole il cliente.
