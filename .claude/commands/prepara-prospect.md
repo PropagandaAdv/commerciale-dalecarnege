@@ -107,8 +107,8 @@ Tabella a due colonne: per ogni servizio pertinente dell'agenzia, il risultato c
 **6. USP su misura**
 La USP dell'agenzia declinata su questo prospect (perché noi e non un altro, per lui), più la mia USP personale da far emergere.
 
-**7. AFFERMAZIONI DI CREDIBILITÀ (sezione principale)**
-Scrivine almeno 5, ciascuna da un'angolazione diversa:
+**7. DOMANDA DI CONNESSIONE = AFFERMAZIONI DI CREDIBILITÀ (sezione principale)**
+Si apre la call con una domanda sul mondo del cliente, non presentando sé stesso: la domanda mi fa entrare nella loro realtà e li fa parlare. L'affermazione di credibilità è un breve aggancio al loro mondo che CULMINA in quella domanda. Scrivine almeno 5, ciascuna da un'angolazione diversa:
 
 * A. un dettaglio particolare del loro sito;
 * B. un traguardo, una notizia o un'iniziativa recente;
@@ -124,9 +124,14 @@ Ogni affermazione deve rispettare i 5 elementi dell'affermazione di credibilità
 4. Suggerisce in che modo posso essere di supporto — senza vendere.
 5. Transizione — chiude con una domanda aperta sul loro mondo che porta al passo successivo (tipicamente: perché vogliono intervenire sul sito/comunicazione proprio adesso).
 
+Criteri della domanda finale: aperta (non sì/no), su ciò che al cliente interessa davvero (clienti, mercato, scelte, obiettivi, perché proprio ora), nel loro linguaggio, senza critica né giudizio implicito, in tema col business, ancorata ad almeno un fatto [VERIFICATO]. Se non c'è alcun fatto verificato (es. sito non raggiungibile) ancora la domanda al settore o a un trend, etichettala [INFERENZA] e dichiaralo.
+
 Per ciascuna fornisci inoltre:
 
-* Copione parlato (30-45 secondi, tono caldo e naturale, in prima persona, con il nome del referente);
+* Copione parlato (30-45 secondi, tono caldo e naturale, in prima persona, con il nome del referente), che si chiude con la domanda;
+* **LA DOMANDA** da sola, su una riga evidenziata, pronta da leggere;
+* Perché funziona (quale aspetto della loro realtà tocca);
+* 2 domande di approfondimento da fare dopo la risposta, per restare nella loro realtà (mai cambiare tema), con l'ascolto come obiettivo;
 * Fatti su cui si basa con etichette e fonti;
 * Quando usarla (apertura, ripresa, momento di stallo);
 * Rischio (cosa potrebbe suonare male o essere falso → come evitarlo).
@@ -178,7 +183,7 @@ Elenco completo delle URL consultate.
 ### `cheat-sheet.md` — una pagina da tenere aperta durante la call
 
 * Nome referente + 3 fatti chiave
-* Affermazione di apertura (copione) + riserva
+* Domanda di apertura (copione + la domanda in evidenza) + riserva + 2 domande di approfondimento
 * Agenda statement
 * 6 domande indispensabili (almeno una per As Is, Should Be, Change, Payout)
 * 3 apprezzamenti specifici
