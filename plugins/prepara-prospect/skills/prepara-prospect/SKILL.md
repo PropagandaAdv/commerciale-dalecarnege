@@ -27,7 +27,7 @@ I dati del prospect sono nell'argomento della skill (`$ARGUMENTS`) o nel messagg
 
 ## Flusso di lavoro
 
-1. **Contesto agenzia.** Leggi `agenzia.md` (radice del repository) per primo: servizi, "Cosa vendo → Cosa comprano", USP aziendale e personale, casi studio, testimonianze. Se non esiste, crealo come template vuoto con quelle sezioni e segnalalo a fine lavoro. Parti da `references/metodo-carnegie.md` per i principi del metodo e il profilo del cliente ideale (ICP).
+1. **Contesto agenzia.** Leggi `agenzia.md` per primo: cercalo nella cartella di lavoro, poi in `~/.claude/agenzia.md`. Contiene servizi, "Cosa vendo → Cosa comprano", USP aziendale e personale, casi studio, testimonianze. Se non lo trovi, crealo come template vuoto con quelle sezioni nella cartella di lavoro e segnalalo a fine lavoro. Parti da `references/metodo-carnegie.md` per i principi del metodo e il profilo del cliente ideale (ICP).
 2. **Ricerca.** Segui `references/ricerca.md`, nell'ordine indicato: sito, audit rapido, presenza online, settore, concorrenti, motivo del contatto. Annota la fonte di ogni informazione.
 3. **Dossier.** Crea la cartella `prospect/<nome-azienda>-<AAAA-MM-GG>/` con `dossier.md` e `cheat-sheet.md`, seguendo la struttura esatta di `references/dossier-template.md` (sezioni 0-15 e cheat-sheet).
 4. **Controllo qualità** (checklist in fondo a `references/dossier-template.md`), poi scrivi il riepilogo finale.

@@ -1,0 +1,11 @@
+{
+  "name": "propaganda-commerciale",
+  "owner": { "name": "Propaganda Adv" },
+  "plugins": [
+    {
+      "name": "prepara-prospect",
+      "source": "./plugins/prepara-prospect",
+      "description": "Skill per preparare il dossier di pre-call con il metodo Dale Carnegie 5C."
+    }
+  ]
+}
