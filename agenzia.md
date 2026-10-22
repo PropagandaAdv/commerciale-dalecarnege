@@ -20,8 +20,8 @@ Principio dalla lezione: i clienti comprano il risultato, non il servizio ("non 
 | Cosa vendo | Cosa comprano |
 |---|---|
 | Sito web | Più contatti, un posizionamento migliore, un'immagine migliore (dalla lezione) |
-| Digital advertising | Più clienti |
-| Email marketing | Più clienti |
+| Digital advertising | Più richieste da nuovi clienti, in tempi rapidi e misurabili |
+| Email marketing | Più riacquisti e più valore dai clienti che hai già, senza cercarne di nuovi |
 | Automazioni con AI | Più tempo |
 
 ## Cliente ideale (ICP)
