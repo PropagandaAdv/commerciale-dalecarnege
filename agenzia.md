@@ -20,9 +20,9 @@ Principio dalla lezione: i clienti comprano il risultato, non il servizio ("non 
 | Cosa vendo | Cosa comprano |
 |---|---|
 | Sito web | Più contatti, un posizionamento migliore, un'immagine migliore (dalla lezione) |
-| Digital advertising | [DA COMPILARE] |
-| Email marketing | [DA COMPILARE] |
-| Automazioni con AI | [DA COMPILARE] |
+| Digital advertising | Più clienti |
+| Email marketing | Più clienti |
+| Automazioni con AI | Più tempo |
 
 ## Cliente ideale (ICP)
 
@@ -37,29 +37,14 @@ Fonte: appunti della lezione, Modulo 2.
 
 La lezione dice che la USP deve differenziare la nostra soluzione da quella dei competitor, evidenziare cosa offriamo di diverso e identificare cosa la rende migliore. Il contenuto va scritto da Giovanni.
 
-- Differenziazione dai competitor: [DA COMPILARE]
-- Cosa offriamo di diverso: [DA COMPILARE]
-- Cosa rende la nostra soluzione migliore: [DA COMPILARE]
+- Differenziazione dai competitor: Riesco a far vedere al cliente prima ciò che otterrà.
+- Cosa offriamo di diverso: una specializzazione molto verticale nei vari ambiti in cui lavoriamo, soprattutto per tecnologie.
+- Cosa rende la nostra soluzione migliore: l'assoluta personalizzazione per cui andiamo a lavorare su ogni progetto.
 
 ## USP personale
 
 Domande guida dalla lezione:
 
-- Perché è piacevole lavorare con me: [DA COMPILARE]
-- Cosa mi rende diverso: [DA COMPILARE]
-- Quanto il mio atteggiamento è importante per il cliente: [DA COMPILARE]
-
-## Casi studio reali
-
-Uno per blocco: cliente, settore, problema, intervento, risultato misurabile.
-
-### Caso 1
-- Cliente: [INSERIRE CASO REALE]
-- Settore:
-- Problema:
-- Intervento:
-- Risultato misurabile:
-
-## Testimonianze / referenze utilizzabili
-
-- [DA COMPILARE] (nome, ruolo, azienda, frase, permesso d'uso sì/no)
+- Perché è piacevole lavorare con me: lavorare con me è piacevole perchè rispondo alle esigenze del cliente senza guardare il minuto o l'ora di lavoro ma cercando di fare di tutto per arrivare al risultato desiderato.
+- Cosa mi rende diverso: mi differenzia, oltre a quanto scritto sopra, il fatto che i progetti che realizziamo sono veramente personalizzati.
+- Quanto il mio atteggiamento è importante per il cliente: molto, sono una persona empatica e riesco a capire bene cosa vuole il cliente.
