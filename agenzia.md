@@ -46,5 +46,5 @@ La lezione dice che la USP deve differenziare la nostra soluzione da quella dei 
 Domande guida dalla lezione:
 
 - Perché è piacevole lavorare con me: lavorare con me è piacevole perchè rispondo alle esigenze del cliente senza guardare il minuto o l'ora di lavoro ma cercando di fare di tutto per arrivare al risultato desiderato.
-- Cosa mi rende diverso: mi differenzia, oltre a quanto scritto sopra, il fatto che i progetti che realizziamo sono veramente personalizzati.
+- Cosa mi rende diverso: mi differenzia, oltre a quanto scritto sopra, il fatto che sono una persona affabile e sempre sorridente.
 - Quanto il mio atteggiamento è importante per il cliente: molto, sono una persona empatica e riesco a capire bene cosa vuole il cliente.
